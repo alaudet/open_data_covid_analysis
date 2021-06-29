@@ -1,0 +1,17 @@
+data/
+notes
+canada.ipynb
+*.csv
+covid2.ipynb
+covidcanada.ipynb
+*.html
+covid.ipynb
+covid.py
+*.json
+*.png
+.vscode
+.ipynb_checkpoints
+*.csv
+*.sh
+updating_data.txt
+
