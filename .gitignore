@@ -11,6 +11,7 @@ covid.py
 *.png
 .vscode
 .ipynb_checkpoints
+backup.ipynb
 *.csv
 *.sh
 updating_data.txt
